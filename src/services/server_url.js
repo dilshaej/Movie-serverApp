@@ -1,0 +1,1 @@
+export const SERVER_URL = "https://movie-server-0laj.onrender.com"
